@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Lab3A\Lab3A\bin\Debug\Data.txt
+C:\Users\User\source\repos\Lab3A\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Users\User\source\repos\Lab3A\Lab3A\bin\Debug\Lab3A.exe
+C:\Users\User\source\repos\Lab3A\Lab3A\bin\Debug\Lab3A.pdb
+C:\Users\User\source\repos\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab3A\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\User\source\repos\Lab3A\Lab3A\obj\Debug\Lab3A.pdb
+C:\Users\User\Downloads\Lab3A\Lab3A\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\User\Downloads\Lab3A\Lab3A\Lab3A\obj\Debug\Lab3A.pdb
